@@ -3,7 +3,7 @@
   ### Hi there 👋 my name is Hanya
     <br/>
 
-- I am Computer Scientist used to do research
+- I am Computer Scientist doing research on virtualization
 - I have worked on Entreprise, IoT and Military project
 - I like to write some tutorial on Bahasa Indonesia
 - I do some Tutorial video on my Youtube
